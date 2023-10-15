@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AutoMasterLooter
+## Notes: Automatically loot items as masterlooter
+## Author: balake
+## Version: 1.0
+## SavedVariables: 
+
+AutoMasterLooter.Lua
